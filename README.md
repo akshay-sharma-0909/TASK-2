@@ -23,3 +23,5 @@ JAVASCRIPT : JavaScript powers dynamic features like live message updates, user 
 language used HTML ,CSS ,JAVASCRIPT
 
 # OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/24390e53-3d4c-494f-8e6f-f9d211e91cfa)
